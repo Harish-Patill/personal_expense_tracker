@@ -5,7 +5,10 @@
 This simple tool helps you track your daily expenses, categorize them, and see where your money goes.  
 It’s a great starting point for building financial awareness and forming better spending habits.
 
----
+
+![Screenshot](Images/Preview.png)
+
+
 
 ## Features
 - **Log daily expenses** with categories and timestamps  
